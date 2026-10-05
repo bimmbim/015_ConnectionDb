@@ -14,3 +14,4 @@ if (!OPENROUTER_API_KEY) {
   console.error("CRITICAL: OPENROUTER_API_KEY is not defined in .env");
   process.exit(1);
 }
+
